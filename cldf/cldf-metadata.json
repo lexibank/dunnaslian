@@ -3,14 +3,12 @@
     "dc:bibliographicCitation": "Dunn, Michael, Nicole Kruspe, and Niclas Burenhult. 2013. \u201cTime and Place in the Prehistory of the Aslian Languages.\u201d Human Biology 85: 383\u2013400.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": "http://concepticon.clld.org/contributions/Dunn-2011-146",
-    "dc:license": [
-        "CC-BY-NC-4.0",
-        "Creative Commons Attribution Non Commercial 4.0",
-        "https://creativecommons.org/licenses/by-nc/4.0/"
-    ],
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Aslian Languages",
+    "dcat:accessURL": "https://github.com/lexibank/dunnaslian",
     "rdf:ID": "dunnaslian",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -18,15 +16,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4560,
+            "dc:extent": 4562,
             "tableSchema": {
                 "columns": [
                     {
@@ -199,11 +197,11 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 4560,
+            "dc:extent": 4562,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

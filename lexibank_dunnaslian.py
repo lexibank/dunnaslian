@@ -9,32 +9,24 @@ from clldutils.misc import slug, nfilter
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'dunnaslian'
 
     def cmd_download(self, **kw):
         return
 
     def cmd_install(self, **kw):
-        cmap = {c.english: c.concepticon_id for c in self.conceptlist.concepts.values()}
         source = self.raw.read_bib()[0]
-        languages = {l['NAME']: l for l in self.languages}
-
         with self.cldf as ds:
             ds.add_sources(source)
+            ds.add_languages(id_factory=lambda l: slug(l['ID']))
+            ds.add_concepts(id_factory=lambda c: slug(c.label))
             header = []
             for line in self.raw.read_tsv("Aslian_wordlists_Master_full+Maniq.tsv"):
                 row = [e.strip() for e in line]
                 if row[0] == "WORD":
                     header = row[1:]
-                    for concept in nfilter(header):
-                        ds.add_concept(
-                            ID=cmap[concept], Name=concept, Concepticon_ID=cmap[concept])
                 elif row[0]:
                     lang = row.pop(0)
-                    ds.add_language(
-                        Glottocode=languages[lang]['GLOTTOCODE'],
-                        Name=languages[lang]['DIALECT'],
-                        ISO639P3code=languages[lang]['ISO'],
-                        ID=slug(lang))
                     for i in range(0, 10, 2):
                         concept = header[i]
                         lexeme = row[i].strip()
@@ -43,7 +35,7 @@ class Dataset(BaseDataset):
                             cogid = slug(concept + '-' + cog)
                             for lex in ds.add_lexemes(
                                 Language_ID=slug(lang),
-                                Parameter_ID=cmap[concept],
+                                Parameter_ID=slug(concept),
                                 Value=lexeme,
                                 Source=source.id
                             ):
@@ -51,3 +43,4 @@ class Dataset(BaseDataset):
                                     lexeme=lex,
                                     Cognateset_ID=cogid,
                                     Source=['DunnKruspeBurenhult2013'])
+
