@@ -6,10 +6,10 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
-Conceptlist in Concepticon: [Dunn-2011-146](http://concepticon.clld.org/contributions/Dunn-2011-146)
 
+Conceptlists in Concepticon:
+- [Dunn-2011-146](https://concepticon.clld.org/contributions/Dunn-2011-146)
 ## Statistics
-
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -20,10 +20,12 @@ Conceptlist in Concepticon: [Dunn-2011-146](http://concepticon.clld.org/contribu
 
 - **Varieties:** 32
 - **Concepts:** 146
-- **Lexemes:** 4,562
+- **Lexemes:** 4,560
+- **Sources:** 1
 - **Synonymy:** 1.01
-- **Cognacy:** 4,109 cognates in 684 cognate sets
+- **Cognacy:** 3,936 cognates in 980 cognate sets (390 singletons)
+- **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
-- **Tokens:** 18,754
+- **Tokens:** 18,541
 - **Segments:** 208 (49 BIPA errors, 49 CTLS sound class errors, 159 CLTS modified)
-- **Inventory size (avg):** 42.34
+- **Inventory size (avg):** 42.00
