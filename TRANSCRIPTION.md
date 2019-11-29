@@ -72,7 +72,6 @@
 | ɨː | 10 | ✓ | ✓ |
 | e: | 9 | ✓ | ✓ |
 | ò/o | 9 | ✓ | ✓ |
-| <?> | 8 | ? | ? |
 | è/e | 8 | ✓ | ✓ |
 | ì/i | 8 | ✓ | ✓ |
 | ú/u | 8 | ✓ | ✓ |
@@ -113,6 +112,7 @@
 | ɲh | 4 | ✓ | ✓ |
 | ʔs | 4 | ✓ | ✓ |
 | ẽ | 4 | ✓ | ✓ |
+| <<=>> | 3 | ? | ? |
 | <<̤>> | 3 | ? | ? |
 | cw | 3 | ? | ? |
 | gh | 3 | ✓ | ✓ |
@@ -129,6 +129,7 @@
 | ɨ̯ | 3 | ✓ | ✓ |
 | ʉ | 3 | ✓ | ✓ |
 | ʊː | 3 | ✓ | ✓ |
+| <<>> | 2 | ? | ? |
 | aʰ | 2 | ? | ? |
 | a̤̤ | 2 | ✓ | ✓ |
 | e̤ʰ | 2 | ? | ? |
@@ -158,7 +159,11 @@
 | ɰ | 2 | ✓ | ✓ |
 | ɲs | 2 | ✓ | ✓ |
 | ʔh | 2 | ✓ | ✓ |
+| <<:>> | 1 | ? | ? |
+| <<I>> | 1 | ? | ? |
+| <<`>> | 1 | ? | ? |
 | <<ʹ>> | 1 | ? | ? |
+| <<…>> | 1 | ? | ? |
 | gg | 1 | ✓ | ✓ |
 | gs | 1 | ✓ | ✓ |
 | gw | 1 | ? | ? |
@@ -214,7 +219,7 @@
 | ẽ: | 1 | ✓ | ✓ |
 | ẽː | 1 | ✓ | ✓ |
 
-(208 rows)
+(213 rows)
 
 
 
@@ -233,7 +238,7 @@
 |:--------------------------------|:-----------------|:------------------|:------------|:----------------------------------------------------|
 | Batek_Teh_Lebir-9_blow-1 | Batek_Teh_Lebir | 9_blow | prhur | p <s> rh </s> u r |
 | Batek_Teh_Taku-9_blow-1 | Batek_Teh_Taku | 9_blow | hlhol | h <s> lh </s> o l |
-| Ceq_Wong-49_here-1 | Ceq_Wong | 49_here | kɑ=daʔ | k ɑ <s> <?> </s> d a ʔ |
+| Ceq_Wong-49_here-1 | Ceq_Wong | 49_here | kɑ=daʔ | k ɑ <s> <<=>> </s> d a ʔ |
 | Ceq_Wong-61_long-1 | Ceq_Wong | 61_long | jsɨŋ | <s> js </s> ɨ ŋ |
 | Jah_Hut-20_dig-1 | Jah_Hut | 20_dig | cwɔm | <s> cw </s> ɔ m |
 | Jah_Hut-22_dog-1 | Jah_Hut | 22_dog | cwəʔ | <s> cw </s> ə ʔ |
@@ -244,7 +249,7 @@
 | Jahai_Banun-83_red-1 | Jahai_Banun | 83_red | rhɨk | <s> rh </s> ɨ k |
 | Jahai_Rual-58_leftside-1 | Jahai_Rual | 58_leftside | wı̃ʔ | w <s> ı̃ </s> ʔ |
 | Jahai_Rual-83_red-1 | Jahai_Rual | 83_red | rhɨk | <s> rh </s> ɨ k |
-| Jahai_Rual-88_rotten-1 | Jahai_Rual | 88_rotten | nsɔʔ | <s> <?> </s> n s ɔ ʔ |
+| Jahai_Rual-88_rotten-1 | Jahai_Rual | 88_rotten | nsɔʔ | <s> <<>> </s> n s ɔ ʔ |
 | Kammu-101_sky-1 | Kammu | 101_sky | lwàaŋ | <s> lw </s> à/a a ŋ |
 | Kammu-105_smoke-1 | Kammu | 105_smoke | ptʹə | p <s> tʹ </s> ə |
 | Kammu-110_squeeze-1 | Kammu | 110_squeeze | pʹɨat | <s> pʹ </s> ɨ a t |
@@ -282,15 +287,15 @@
 | Kammu-98_sing-1 | Kammu | 98_sing | tʹəəm | <s> tʹ </s> əː m |
 | Kensiw_Perak-123_throw-1 | Kensiw_Perak | 123_throw | hwit | <s> hw </s> i t |
 | Kensiw_Perak-128_turn-1 | Kensiw_Perak | 128_turn | wlwɛl | w <s> lw </s> ɛ l |
-| Kensiw_Perak-89_salt-1 | Kensiw_Perak | 89_salt | mpɔc | <s> <?> </s> m p ɔ c |
+| Kensiw_Perak-89_salt-1 | Kensiw_Perak | 89_salt | mpɔc | <s> <<>> </s> m p ɔ c |
 | Khmer_Siem_Reap-21_dirty-1 | Khmer_Siem_Reap | 21_dirty | kəŋwɔʔ | k ə <s> ŋw </s> ɔ ʔ |
-| Khmer_Surin-76_not-1 | Khmer_Surin | 76_not | mʌn … teː | m ʌ n + <s> <?> </s> + t eː |
+| Khmer_Surin-76_not-1 | Khmer_Surin | 76_not | mʌn … teː | m ʌ n + <s> <<…>> </s> + t eː |
 | Kintaq-110_squeeze-1 | Kintaq | 110_squeeze | cpı̃t | c p <s> ı̃ </s> t |
 | Kintaq-128_turn-1 | Kintaq | 128_turn | ʔɲwɛ̃ɲ | ʔ <s> ɲw </s> ɛ̃ ɲ |
 | Kintaq-58_leftside-1 | Kintaq | 58_leftside | wı̃ʔ | w <s> ı̃ </s> ʔ |
 | Mah_Meri-1_animal-2 | Mah_Meri | 1_animal | nata̤̤̤̤̤k | n a t a̤̤ <s> <<̤>> </s> <s> <<̤>> </s> <s> <<̤>> </s> k |
 | Mah_Meri-29_fall-1 | Mah_Meri | 29_fall | gwɔ̤c | <s> gw </s> ɔ̤ c |
-| Maniq-49_here-1 | Maniq | 49_here | ki=ʔɛn | k i <s> <?> </s> ʔ ɛ n |
+| Maniq-49_here-1 | Maniq | 49_here | ki=ʔɛn | k i <s> <<=>> </s> ʔ ɛ n |
 | Menriq_Rual-9_blow-1 | Menriq_Rual | 9_blow | hilhul | h i <s> lh </s> u l |
 | Mon-101_sky-1 | Mon | 101_sky | təkaʰ | t ə k <s> aʰ </s> |
 | Mon-117_swell-1 | Mon | 117_swell | kṳʰ | k <s> ṳʰ </s> |
@@ -304,12 +309,12 @@
 | Semai_Kampar-12_breathe-1 | Semai_Kampar | 12_breathe | brlhɨm | b r <s> lh </s> ɨ m |
 | Semai_Kampar-58_leftside-1 | Semai_Kampar | 58_leftside | kŋwiːl | k <s> ŋw </s> iː l |
 | Semaq_Beri_Jaboy-115_straight-1 | Semaq_Beri_Jaboy | 115_straight | lsoh | <s> ls </s> o h |
-| Semaq_Beri_Jaboy-44_hand-1 | Semaq_Beri_Jaboy | 44_hand | tʰI | tʰ <s> <?> </s> |
+| Semaq_Beri_Jaboy-44_hand-1 | Semaq_Beri_Jaboy | 44_hand | tʰI | tʰ <s> <<I>> </s> |
 | Semelai-112_stand-1 | Semelai | 112_stand | ʔwʔaw | <s> ʔw </s> ʔ a w |
-| Semelai-146_youpl-1 | Semelai | 146_youpl | je=ʔen | j e <s> <?> </s> ʔ e n |
+| Semelai-146_youpl-1 | Semelai | 146_youpl | je=ʔen | j e <s> <<=>> </s> ʔ e n |
 | Semelai-82_rain-1 | Semelai | 82_rain | lsəm | <s> ls </s> ə m |
 | Semnam_Bal-121_thou-1 | Semnam_Bal | 121_thou | mĭh | m <s> ĭh </s> |
-| Semnam_Bal-128_turn-1 | Semnam_Bal | 128_turn | ʔilˈw`:l | ʔ i l ˈw <s> <?> </s> l |
+| Semnam_Bal-128_turn-1 | Semnam_Bal | 128_turn | ʔilˈw`:l | ʔ i l ˈw <s> <<`>> </s> <s> <<:>> </s> l |
 | Semnam_Bal-40_full-1 | Semnam_Bal | 40_full | tbı̆k | t b <s> ı̆ </s> k |
 | Semnam_Bal-48_heavy-1 | Semnam_Bal | 48_heavy | ʔɲĕh | ʔ ɲ <s> ĕh </s> |
 | Semnam_Bal-52_i-1 | Semnam_Bal | 52_i | ʔı̃ːɲ | ʔ <s> ı̃ː </s> ɲ |

@@ -59,7 +59,7 @@ class Dataset(BaseDataset):
     id = 'dunnaslian'
 
     form_spec = FormSpec(
-        brackets={"[": "]", "{": "}", "(": ")", "‘": "’"},
+        brackets={"[": "]", "{": "}", "(": ")"},
         separators=";/,",
         missing_data=('––', '--', '-'),
         strip_inside_brackets=True,

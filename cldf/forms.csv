@@ -1403,7 +1403,7 @@ Semaq_Beri_Berua-45_he-1,,Semaq_Beri_Berua,45_he,kɛ,kɛ,k ɛ,,DunnKruspeBurenhu
 Semaq_Beri_Jaboy-41_give-1,,Semaq_Beri_Jaboy,41_give,jon,jon,j o n,,DunnKruspeBurenhult2013,,false
 Semaq_Beri_Jaboy-42_good-1,,Semaq_Beri_Jaboy,42_good,bayek,bayek,b a j e k,,DunnKruspeBurenhult2013,,true
 Semaq_Beri_Jaboy-43_hair-1,,Semaq_Beri_Jaboy,43_hair,suk,suk,s u k,,DunnKruspeBurenhult2013,,false
-Semaq_Beri_Jaboy-44_hand-1,,Semaq_Beri_Jaboy,44_hand,tʰI,tʰI,tʰ <?>,,DunnKruspeBurenhult2013,,false
+Semaq_Beri_Jaboy-44_hand-1,,Semaq_Beri_Jaboy,44_hand,tʰI,tʰI,tʰ <<I>>,,DunnKruspeBurenhult2013,,false
 Semaq_Beri_Jaboy-45_he-1,,Semaq_Beri_Jaboy,45_he,kɛh,kɛh,k ɛ h,,DunnKruspeBurenhult2013,,false
 Semelai-41_give-1,,Semelai,41_give,jon,jon,j o n,,DunnKruspeBurenhult2013,,false
 Semelai-42_good-1,,Semelai,42_good,ʔilɔk,ʔilɔk,ʔ i l ɔ k,,DunnKruspeBurenhult2013,,true
@@ -1442,7 +1442,7 @@ Tenen_Paborn-50_hold-1,,Tenen_Paborn,50_hold,diʔ,diʔ,d i ʔ,,DunnKruspeBurenhu
 Maniq-46_head-1,,Maniq,46_head,kuy,kuy,k u j,,DunnKruspeBurenhult2013,,false
 Maniq-47_hear-1,,Maniq,47_hear,kayeŋ,kayeŋ,k a j e ŋ,,DunnKruspeBurenhult2013,,false
 Maniq-48_heavy-1,,Maniq,48_heavy,haɲut,haɲut,h a ɲ u t,,DunnKruspeBurenhult2013,,false
-Maniq-49_here-1,,Maniq,49_here,ki=ʔɛn,ki=ʔɛn,k i <?> ʔ ɛ n,,DunnKruspeBurenhult2013,,false
+Maniq-49_here-1,,Maniq,49_here,ki=ʔɛn,ki=ʔɛn,k i <<=>> ʔ ɛ n,,DunnKruspeBurenhult2013,,false
 Maniq-50_hold-1,,Maniq,50_hold,yɨy,yɨy,j ɨ j,,DunnKruspeBurenhult2013,,false
 Kensiw_Perak-46_head-1,,Kensiw_Perak,46_head,kuy,kuy,k u j,,DunnKruspeBurenhult2013,,false
 Kensiw_Perak-47_hear-1,,Kensiw_Perak,47_hear,kjeŋ,kjeŋ,k j e ŋ,,DunnKruspeBurenhult2013,,false
@@ -1506,7 +1506,7 @@ Batek_Deq_Koh-50_hold-1,,Batek_Deq_Koh,50_hold,cɛp,cɛp,c ɛ p,,DunnKruspeBuren
 Ceq_Wong-46_head-1,,Ceq_Wong,46_head,kuy,kuy,k u j,,DunnKruspeBurenhult2013,,false
 Ceq_Wong-47_hear-1,,Ceq_Wong,47_hear,kjəŋ,kjəŋ,k j ə ŋ,,DunnKruspeBurenhult2013,,false
 Ceq_Wong-48_heavy-1,,Ceq_Wong,48_heavy,hɲut,hɲut,h ɲ u t,,DunnKruspeBurenhult2013,,false
-Ceq_Wong-49_here-1,,Ceq_Wong,49_here,kɑ=daʔ,kɑ=daʔ,k ɑ <?> d a ʔ,,DunnKruspeBurenhult2013,,false
+Ceq_Wong-49_here-1,,Ceq_Wong,49_here,kɑ=daʔ,kɑ=daʔ,k ɑ <<=>> d a ʔ,,DunnKruspeBurenhult2013,,false
 Ceq_Wong-50_hold-1,,Ceq_Wong,50_hold,gɔy,gɔy,g ɔ j,,DunnKruspeBurenhult2013,,false
 Semnam_Bal-46_head-1,,Semnam_Bal,46_head,kuːy,kuːy,k uː j,,DunnKruspeBurenhult2013,,false
 Semnam_Bal-47_hear-1,,Semnam_Bal,47_hear,yɔ̆k,yɔ̆k,j ɔ̆ k,,DunnKruspeBurenhult2013,,false
@@ -2514,7 +2514,7 @@ Kammu-77_old-1,,Kammu,77_old,tháw,tháw,tʰ á/a w,,DunnKruspeBurenhult2013,,tr
 Kammu-78_one-1,,Kammu,78_one,mòoy,mòoy,m ò/o o j,,DunnKruspeBurenhult2013,,false
 Kammu-79_person-1,,Kammu,79_person,kòn,kòn,k ò/o n,,DunnKruspeBurenhult2013,,false
 Kammu-80_play-1,,Kammu,80_play,tnhʹɔɔy,tnhʹɔɔy,t nhʹ ɔː j,,DunnKruspeBurenhult2013,,false
-Khmer_Surin-76_not-1,,Khmer_Surin,76_not,mʌn … teː,mʌn … teː,m ʌ n + <?> + t eː,,DunnKruspeBurenhult2013,,false
+Khmer_Surin-76_not-1,,Khmer_Surin,76_not,mʌn … teː,mʌn … teː,m ʌ n + <<…>> + t eː,,DunnKruspeBurenhult2013,,false
 Khmer_Surin-77_old-1,,Khmer_Surin,77_old,cah,cah,c a h,,DunnKruspeBurenhult2013,,false
 Khmer_Surin-78_one-1,,Khmer_Surin,78_one,mʊːy,mʊːy,m ʊː j,,DunnKruspeBurenhult2013,,false
 Khmer_Surin-79_person-1,,Khmer_Surin,79_person,nĕaʔ,nĕaʔ,n ĕ a ʔ,,DunnKruspeBurenhult2013,,false
@@ -2699,7 +2699,7 @@ Maniq-90_say-1,,Maniq,90_say,biyɔh,biyɔh,b i j ɔ h,,DunnKruspeBurenhult2013,,
 Kensiw_Perak-86_roadpath-1,,Kensiw_Perak,86_roadpath,cpan,cpan,c p a n,,DunnKruspeBurenhult2013,,false
 Kensiw_Perak-87_root-1,,Kensiw_Perak,87_root,ʔyes,ʔyes,ʔ j e s,,DunnKruspeBurenhult2013,,false
 Kensiw_Perak-88_rotten-1,,Kensiw_Perak,88_rotten,ʔnsɔʔ,ʔnsɔʔ,ʔ n s ɔ ʔ,,DunnKruspeBurenhult2013,,false
-Kensiw_Perak-89_salt-1,,Kensiw_Perak,89_salt,mpɔc,mpɔc,<?> m p ɔ c,,DunnKruspeBurenhult2013,,false
+Kensiw_Perak-89_salt-1,,Kensiw_Perak,89_salt,mpɔc,mpɔc,<<>> m p ɔ c,,DunnKruspeBurenhult2013,,false
 Kensiw_Perak-90_say-1,,Kensiw_Perak,90_say,sɛmaŋ,sɛmaŋ,s ɛ m a ŋ,,DunnKruspeBurenhult2013,,true
 Kensiw_Kedah-86_roadpath-1,,Kensiw_Kedah,86_roadpath,glɔŋ,glɔŋ,g l ɔ ŋ,,DunnKruspeBurenhult2013,,false
 Kensiw_Kedah-87_root-1,,Kensiw_Kedah,87_root,ʔaka,ʔaka,ʔ a k a,,DunnKruspeBurenhult2013,,true
@@ -2718,7 +2718,7 @@ Jahai_Banun-89_salt-1,,Jahai_Banun,89_salt,ʔmpɔc,ʔmpɔc,ʔ m p ɔ c,,DunnKrus
 Jahai_Banun-90_say-1,,Jahai_Banun,90_say,pŋsɛŋ,pŋsɛŋ,p ŋ s ɛ ŋ,,DunnKruspeBurenhult2013,,false
 Jahai_Rual-86_roadpath-1,,Jahai_Rual,86_roadpath,glɔŋ,glɔŋ,g l ɔ ŋ,,DunnKruspeBurenhult2013,,false
 Jahai_Rual-87_root-1,,Jahai_Rual,87_root,jʔes,jʔes,j ʔ e s,,DunnKruspeBurenhult2013,,false
-Jahai_Rual-88_rotten-1,,Jahai_Rual,88_rotten,nsɔʔ,nsɔʔ,<?> n s ɔ ʔ,,DunnKruspeBurenhult2013,,false
+Jahai_Rual-88_rotten-1,,Jahai_Rual,88_rotten,nsɔʔ,nsɔʔ,<<>> n s ɔ ʔ,,DunnKruspeBurenhult2013,,false
 Jahai_Rual-89_salt-1,,Jahai_Rual,89_salt,gaʔəm,gaʔəm,g a ʔ ə m,,DunnKruspeBurenhult2013,,true
 Jahai_Rual-90_say-1,,Jahai_Rual,90_say,pŋsɛŋ,pŋsɛŋ,p ŋ s ɛ ŋ,,DunnKruspeBurenhult2013,,false
 Menriq_Lah-86_roadpath-1,,Menriq_Lah,86_roadpath,har bəw,har bəw,h a r + b ə w,,DunnKruspeBurenhult2013,,false
@@ -3997,7 +3997,7 @@ Ceq_Wong-129_two-1,,Ceq_Wong,129_two,ber,ber,b e r,,DunnKruspeBurenhult2013,,fal
 Ceq_Wong-130_vomit-1,,Ceq_Wong,130_vomit,kəʔ,kəʔ,k ə ʔ,,DunnKruspeBurenhult2013,,false
 Semnam_Bal-126_tooth-1,,Semnam_Bal,126_tooth,lmɔ̆ɲ,lmɔ̆ɲ,l m ɔ̆ ɲ,,DunnKruspeBurenhult2013,,false
 Semnam_Bal-127_tree-1,,Semnam_Bal,127_tree,ɲhũ̆ʔ,ɲhũ̆ʔ,ɲh ũ̆ ʔ,,DunnKruspeBurenhult2013,,false
-Semnam_Bal-128_turn-1,,Semnam_Bal,128_turn,ʔilˈw`:l,ʔilˈw`:l,ʔ i l ˈw <?> l,,DunnKruspeBurenhult2013,,false
+Semnam_Bal-128_turn-1,,Semnam_Bal,128_turn,ʔilˈw`:l,ʔilˈw`:l,ʔ i l ˈw <<`>> <<:>> l,,DunnKruspeBurenhult2013,,false
 Semnam_Bal-129_two-1,,Semnam_Bal,129_two,naːy,naːy,n aː j,,DunnKruspeBurenhult2013,,false
 Semnam_Bal-130_vomit-1,,Semnam_Bal,130_vomit,kŏʔ,kŏʔ,k ŏ ʔ,,DunnKruspeBurenhult2013,,false
 Semnam_Malau-126_tooth-1,,Semnam_Malau,126_tooth,lmɔːɲ,lmɔːɲ,l m ɔː ɲ,,DunnKruspeBurenhult2013,,false
@@ -4555,7 +4555,7 @@ Temiar_Kelantan-146_youpl-1,,Temiar_Kelantan,146_youpl,ɲɔb,ɲɔb,ɲ ɔ b,,Dunn
 Temiar_Perak-146_youpl-1,,Temiar_Perak,146_youpl,ɲɔb,ɲɔb,ɲ ɔ b,,DunnKruspeBurenhult2013,,false
 Semai_Kampar-146_youpl-1,,Semai_Kampar,146_youpl,ŋkeːʔ,ŋkeːʔ,ŋ k eː ʔ,,DunnKruspeBurenhult2013,,false
 Jah_Hut-146_youpl-1,,Jah_Hut,146_youpl,yɔn,yɔn,j ɔ n,,DunnKruspeBurenhult2013,,false
-Semelai-146_youpl-1,,Semelai,146_youpl,je=ʔen,je=ʔen,j e <?> ʔ e n,,DunnKruspeBurenhult2013,,false
+Semelai-146_youpl-1,,Semelai,146_youpl,je=ʔen,je=ʔen,j e <<=>> ʔ e n,,DunnKruspeBurenhult2013,,false
 Kammu-146_youpl-1,,Kammu,146_youpl,pɔɔ,pɔɔ,p ʔ ɔː,,DunnKruspeBurenhult2013,,false
 Khmer_Surin-146_youpl-1,,Khmer_Surin,146_youpl,phʊːŋ ʔɛːɲ,phʊːŋ ʔɛːɲ,pʰ ʊː ŋ + ʔ ɛː ɲ,,DunnKruspeBurenhult2013,,false
 Khmer_Siem_Reap-146_youpl-1,,Khmer_Siem_Reap,146_youpl,puoʔ nĕaʔ,puoʔ nĕaʔ,p u o ʔ + n ĕ a ʔ,,DunnKruspeBurenhult2013,,false
