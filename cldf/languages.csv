@@ -1,33 +1,33 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
-batekdeqkoh,Batek Deq Koh,bate1262,,btq,,
-batekdeqterengganu,Batek Deq Terengganu,bate1262,,btq,,
-batekteq,Batek Teq,bate1262,,btq,,
-batektehlebir,Batek Teh Lebir,bate1262,,btq,,
-batektehtaku,Batek Teh Taku,bate1262,,btq,,
-menriqlah,Menriq Lah,minr1238,,mnq,,
-menriqrual,Menriq Rual,minr1238,,mnq,,
-jahaibanun,Jahai Banun,jeha1242,,jhi,,
-jahairual,Jahai Rual,jeha1242,,jhi,,
-kensiwkedah,Kensiw Kedah,kens1248,,kns,,
-kintaq,Kintaq,kint1239,,knq,,
-kensiwperak,Kensiw Perak,kens1248,,kns,,
-tenenpaborn,Tenen Paborn,tong1308,,tnz,,
-tenenpalian,Tenen Palian,tong1308,,tnz,,
-ceqwong,Ceq Wong,chew1245,,cwg,,
-jahhut,Jah Hut,jahh1242,,jah,,
-lanohkertei,Lanoh Kertei,lano1248,,lnh,,
-semnambal,Semnam Bal,semn1250,,ssm,,
-semnammalau,Semnam Malau,sema1250,,ssm,,
-temiarkelantan,Temiar Kelantan,temi1246,,tea,,
-temiarperak,Temiar Perak,teim1246,,tea,,
-semaikampar,Semai Kampar,sema1266,,sea,,
-semairinglet,Semai Ringlet,sema1266,,sea,,
-kammu,Kammu,khmu1256,,kjg,,
-khmersiemreap,Khmer Siem Reap,cent1989,,khm,,
-khmersurin,Khmer Surin,suri1265,,kxm,,
-mahmeri,Mah Meri,besi1244,,mhe,,
-semaqberiberua,Semaq Beri Brwe,sema1265,,szc,,
-semaqberijaboy,Semaq Beri Jaboy,sema1265,,szc,,
-semelai,Semelai,seme1247,,sza,,
-maniq,Maniq,tong1308,,tnz,,
-mon,Mon,monn1258,,mnw,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+Batek_Deq_Koh,Batek Deq Koh,bate1262,Batek,btq,Eurasia,4.8223,102.382,Austroasiatic
+Batek_Deq_Terengganu,Batek Deq Terengganu,bate1262,Batek,btq,Eurasia,4.8223,102.382,Austroasiatic
+Batek_Teq,Batek Teq,bate1262,Batek,btq,Eurasia,4.8223,102.382,Austroasiatic
+Batek_Teh_Lebir,Batek Teh Lebir,bate1262,Batek,btq,Eurasia,4.8223,102.382,Austroasiatic
+Batek_Teh_Taku,Batek Teh Taku,bate1262,Batek,btq,Eurasia,4.8223,102.382,Austroasiatic
+Menriq_Lah,Menriq Lah,minr1238,Minriq,mnq,Eurasia,5.01108,102.047,Austroasiatic
+Menriq_Rual,Menriq Rual,minr1238,Minriq,mnq,Eurasia,5.01108,102.047,Austroasiatic
+Jahai_Banun,Jahai Banun,jeha1242,Jehai,jhi,Eurasia,5.63695,101.541,Austroasiatic
+Jahai_Rual,Jahai Rual,jeha1242,Jehai,jhi,Eurasia,5.63695,101.541,Austroasiatic
+Kensiw_Kedah,Kensiw Kedah,kens1248,Kensiu,kns,Eurasia,5.98085,101.026,Austroasiatic
+Kintaq,Kintaq,kint1239,Kintaq,knq,Eurasia,5.75004,101.277,Austroasiatic
+Kensiw_Perak,Kensiw Perak,kens1248,Kensiu,kns,Eurasia,5.98085,101.026,Austroasiatic
+Tenen_Paborn,Tenen Paborn,tong1308,Maniq,tnz,Eurasia,6.88137,100.102,Austroasiatic
+Tenen_Palian,Tenen Palian,tong1308,Maniq,tnz,Eurasia,6.88137,100.102,Austroasiatic
+Ceq_Wong,Ceq Wong,chew1245,Chewong,cwg,Eurasia,3.83331,102.081,Austroasiatic
+Jah_Hut,Jah Hut,jahh1242,Jah Hut,jah,Eurasia,3.67619,102.291,Austroasiatic
+Lanoh_Kertei,Lanoh Kertei,lano1248,Lanoh,lnh,Eurasia,4.90934,100.986,Austroasiatic
+Semnam_Bal,Semnam Bal,semn1250,Semnam,ssm,Eurasia,5.27617,101.058,Austroasiatic
+Semnam_Malau,Semnam Malau,sema1250,,ssm,,,,
+Temiar_Kelantan,Temiar Kelantan,temi1246,Temiar,tea,Eurasia,4.974,101.438,Austroasiatic
+Temiar_Perak,Temiar Perak,teim1246,,tea,,,,
+Semai_Kampar,Semai Kampar,sema1266,Semai,sea,Eurasia,4.13257,101.477,Austroasiatic
+Semai_Ringlet,Semai Ringlet,sema1266,Semai,sea,Eurasia,4.13257,101.477,Austroasiatic
+Kammu,Kammu,khmu1256,Khmu,kjg,Eurasia,20.2463,101.671,Austroasiatic
+Khmer_Siem_Reap,Khmer Siem Reap,cent1989,Central Khmer,khm,Eurasia,12.0515,105.015,Austroasiatic
+Khmer_Surin,Khmer Surin,suri1265,Surin,kxm,Eurasia,,,Austroasiatic
+Mah_Meri,Mah Meri,besi1244,Besisi,mhe,Eurasia,2.717,101.676,Austroasiatic
+Semaq_Beri_Berua,Semaq Beri Brwe,sema1265,Semaq Beri,szc,Eurasia,4.1217,102.816,Austroasiatic
+Semaq_Beri_Jaboy,Semaq Beri Jaboy,sema1265,Semaq Beri,szc,Eurasia,4.1217,102.816,Austroasiatic
+Semelai,Semelai,seme1247,Semelai,sza,Eurasia,2.82799,102.806,Austroasiatic
+Maniq,Maniq,tong1308,Maniq,tnz,Eurasia,6.88137,100.102,Austroasiatic
+Mon,Mon,monn1258,,mnw,,,,
