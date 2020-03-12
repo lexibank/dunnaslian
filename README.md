@@ -29,3 +29,10 @@ Conceptlists in Concepticon:
 - **Tokens:** 18,542
 - **Segments:** 213 (54 BIPA errors, 54 CTLS sound class errors, 159 CLTS modified)
 - **Inventory size (avg):** 42.03
+
+# Contributors
+
+Name | GitHub user | Role
+ --- | --- | --- 
+Simon Greenhill | @SimonGreenhill | maintainer
+
