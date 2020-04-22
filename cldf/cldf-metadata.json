@@ -10,14 +10,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Aslian Languages",
+    "dc:title": "CLDF dataset derived from Dunn et al.'s \"Aslian Languages\" from 2013",
     "dcat:accessURL": "https://github.com/lexibank/dunnaslian",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dunnaslian",
-            "dc:created": "39e22d4"
+            "dc:created": "6188ddb"
         },
         {
             "rdf:type": "prov:Entity",

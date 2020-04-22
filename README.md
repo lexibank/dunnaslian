@@ -1,4 +1,4 @@
-# Aslian Languages
+# CLDF dataset derived from Dunn et al.'s "Aslian Languages" from 2013
 
 Cite the source dataset as
 
