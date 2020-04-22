@@ -15,8 +15,8 @@ Conceptlists in Concepticon:
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 75%](https://img.shields.io/badge/BIPA-75%25-yellow.svg "BIPA: 75%")
-![CLTS SoundClass: 75%](https://img.shields.io/badge/CLTS%20SoundClass-75%25-yellow.svg "CLTS SoundClass: 75%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 32
 - **Concepts:** 146
@@ -26,13 +26,16 @@ Conceptlists in Concepticon:
 - **Cognacy:** 3,936 cognates in 980 cognate sets (390 singletons)
 - **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
-- **Tokens:** 18,542
-- **Segments:** 213 (54 BIPA errors, 54 CTLS sound class errors, 159 CLTS modified)
-- **Inventory size (avg):** 42.03
+- **Tokens:** 18,573
+- **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
+- **Inventory size (avg):** 40.25
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Simon Greenhill | @SimonGreenhill | maintainer
+Name | GitHub user | Description | Role
+ --- | --- | --- | ----
+Simon Greenhill | @SimonGreenhill | patron, code | Author
+Johann-Mattis List | @lingulist | profile | Author
+Michael Dunn | @evoling | data provider | DataCurator
+
 
