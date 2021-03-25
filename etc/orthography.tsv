@@ -1,226 +1,225 @@
-Grapheme	IPA	UNICODE	FREQUENCY
-ʔ	ʔ	U+0294	1738
-a	a	U+0061	1588
-k	k	U+006b	1248
-t	t	U+0074	1059
-h	h	U+0068	757
-m	m	U+006d	740
-l	l	U+006c	685
-p	p	U+0070	603
-ɔ	ɔ	U+0254	588
-n	n	U+006e	572
-b	b	U+0062	564
-s	s	U+0073	542
-c	c	U+0063	523
-i	i	U+0069	514
-ə	ə	U+0259	495
-ŋ	ŋ	U+014b	492
-ɛ	ɛ	U+025b	483
-y	j	U+0079	481
-u	u	U+0075	431
-r	r	U+0072	319
-e	e	U+0065	304
-ɲ	ɲ	U+0272	289
-o	o	U+006f	265
-j	j	U+006a	262
-g	g	U+0067	249
-w	w	U+0077	217
-d	d	U+0064	191
-ɨ	ɨ	U+0268	188
-_	_	U+005f	100
-ɛ̃	ɛ̃	U+025b U+0303	76
-aː	aː	U+0061 U+02d0	74
-ɘ	ɘ	U+0258	70
-ã	ã	U+00e3	68
-ɛː	ɛː	U+025b U+02d0	48
-oː	oː	U+006f U+02d0	46
-ɔː	ɔː	U+0254 U+02d0	46
-ɔ̃	ɔ̃	U+0254 U+0303	44
-iː	iː	U+0069 U+02d0	39
-uː	uː	U+0075 U+02d0	32
-	ʔ	U+f195	31
-ʁ	ʁ	U+0281	30
-eː	eː	U+0065 U+02d0	29
-ʌ	ʌ	U+028c	29
-ũ	ũ	U+0169	28
-th	tʰ	U+0074 U+0068	27
-ph	pʰ	U+0070 U+0068	26
-ɑ	ɑ	U+0251	25
-ɒ	ɒ	U+0252	25
-ɒː	ɒː	U+0252 U+02d0	22
-a:	a:	U+0061 U+003a	21
-o̤	o̤	U+006f U+0324	21
-əː	əː	U+0259 U+02d0	20
-á	á/a	U+00e1	19
-o:	oː	U+006f U+003a	19
-ĩ	ĩ	U+0129	17
-nh	n h	U+006e U+0068	17
-ŏ	ŏ	U+014f	16
-u:	uː	U+0075 U+003a	16
-kh	kʰ	U+006b U+0068	16
-ɔ:	ɔ:	U+0254 U+003a	16
-ŋs	ŋ s	U+014b U+0073	15
-ɨ̃	ɨ̃	U+0268 U+0303	14
-i:	iː	U+0069 U+003a	14
-ch	cʰ	U+0063 U+0068	14
-à	à/a	U+00e0	13
-jh	j h	U+006a U+0068	12
-tʰ	tʰ	U+0074 U+02b0	12
-mh	m h	U+006d U+0068	12
-kʰ	kʰ	U+006b U+02b0	12
-ə̆	ə̆	U+0259 U+0306	11
-ə̃	ə̃	U+0259 U+0303	11
-ɛ̤	ɛ̤	U+025b U+0324	11
-ʌː	ʌː	U+028c U+02d0	11
-ĕ	ĕ	U+0115	10
-ɔɔ	ɔː	U+0254 U+0254	10
-ɨː	ɨː	U+0268 U+02d0	10
-a̤	a̤	U+0061 U+0324	10
-ns	n s	U+006e U+0073	9
-sw	s w	U+0073 U+0077	9
-ò	ò/o	U+00f2	9
-e:	e:	U+0065 U+003a	9
-dw	d w	U+0064 U+0077	9
-ú	ú/u	U+00fa	8
-ă	ă	U+0103	8
-cʰ	cʰ	U+0063 U+02b0	8
-ɛ:	ɛː	U+025b U+003a	8
-ɪ	ɪ	U+026a	8
-ɪː	ɪː	U+026a U+02d0	8
-è	è/e	U+00e8	8
-ì	ì/i	U+00ec	8
-ı̃	ı̃	U+0131 U+0303	8
-ɸ	ɸ	U+0278	8
-ó	ó/o	U+00f3	7
-e̤	e̤	U+0065 U+0324	7
-ɔ̆	ɔ̆	U+0254 U+0306	7
-ʊ	ʊ	U+028a	7
-ɔ̤	ɔ̤	U+0254 U+0324	6
-é	é	U+00e9	6
-bw	b w	U+0062 U+0077	6
-ə:	ə:	U+0259 U+003a	6
-ṳ	ṳ	U+1e73	6
-ə̤	ə̤	U+0259 U+0324	6
-əə	əː	U+0259 U+0259	6
-ʟ	ʟ	U+029f	6
-ù	ù	U+00f9	5
-ɒ:	ɒ:	U+0252 U+003a	5
-n̥	n̥	U+006e U+0325	5
-bh	bʱ	U+0062 U+0068	5
-í	í	U+00ed	5
-ŭ	ŭ	U+016d	5
-kw	kʷ	U+006b U+0077	5
-tʹ	tʹ	U+0074 U+02b9	5
-ɓ	ɓ	U+0253	5
-ɛ̆	ɛ̆	U+025b U+0306	5
-ɔ̃:	ɔ̃:	U+0254 U+0303 U+003a	5
-m̥	m̥	U+006d U+0325	5
-bs	bs	U+0062 U+0073	4
-ɐ̤	ɐ̤	U+0250 U+0324	4
-ʔs	ʔs	U+0294 U+0073	4
-ɨ̆	ɨ̆	U+0268 U+0306	4
-ɗ	ɗ	U+0257	4
-ks	ks	U+006b U+0073	4
-v	v	U+0076	4
-ẽ	ẽ	U+1ebd	4
-ɲh	ɲh	U+0272 U+0068	4
-ã:	ã:	U+00e3 U+003a	4
-ɣ	ɣ	U+0263	3
-ʉ	ʉ	U+0289	3
-lh	lh	U+006c U+0068	3
-rh	rh	U+0072 U+0068	3
-kʹ	kʹ	U+006b U+02b9	3
-cw	cw	U+0063 U+0077	3
-ɨɨ	ɨɨ	U+0268 U+0268	3
--	NULL	U+002d	3
-ɘ:	ɘ:	U+0258 U+003a	3
-ɨ:	ɨ:	U+0268 U+003a	3
-ʊː	ʊː	U+028a U+02d0	3
-ɨ̯	ɨ̯	U+0268 U+032f	3
-ɛ̃ː	ɛ̃ː	U+025b U+0303 U+02d0	3
-ɔ̃ː	ɔ̃ː	U+0254 U+0303 U+02d0	3
-gh	gh	U+0067 U+0068	3
-ãː	ãː	U+00e3 U+02d0	3
-ɛ̃:	ɛ̃:	U+025b U+0303 U+003a	2
-ũ:	ũ:	U+0169 U+003a	2
-mʹ	mʹ	U+006d U+02b9	2
-ɦ	ɦ	U+0266	2
-ŋw	ŋw	U+014b U+0077	2
-ɔ̯	ɔ̯	U+0254 U+032f	2
-ɰ	ɰ	U+0270	2
-ı̃ː	ı̃ː	U+0131 U+0303 U+02d0	2
-oʰ	oʰ	U+006f U+02b0	2
-z	z	U+007a	2
-lʹ	lʹ	U+006c U+02b9	2
-aʰ	aʰ	U+0061 U+02b0	2
-òh	òh	U+00f2 U+0068	2
-ɛ̤ʰ	ɛ̤ʰ	U+025b U+0324 U+02b0	2
-nʹ	nʹ	U+006e U+02b9	2
-ès	ès	U+00e8 U+0073	2
-ɑ̃	ɑ̃	U+0251 U+0303	2
-pʹ	pʹ	U+0070 U+02b9	2
-e̤ʰ	e̤ʰ	U+0065 U+0324 U+02b0	2
-ls	ls	U+006c U+0073	2
-ɐ	ɐ	U+0250	2
-hʹ	hʹ	U+0068 U+02b9	2
-ɛɛ	ɛɛ	U+025b U+025b	2
-ʔh	ʔh	U+0294 U+0068	2
-lw	lw	U+006c U+0077	2
-ũ̆	ũ̆	U+0169 U+0306	2
-ũː	ũː	U+0169 U+02d0	2
-ɡ	ɡ	U+0261	1
-õː	õː	U+00f5 U+02d0	1
-ɘ̃	ɘ̃	U+0258 U+0303	1
-ăh	ăh	U+0103 U+0068	1
-i̤	i̤	U+0069 U+0324	1
-a̤̤	a̤̤	U+0061 U+0324 U+0324	1
-ẽː	ẽː	U+1ebd U+02d0	1
-óh	óh	U+00f3 U+0068	1
-ŋh	ŋh	U+014b U+0068	1
-pp	pp	U+0070 U+0070	1
-khʹ	khʹ	U+006b U+0068 U+02b9	1
-sʹ	sʹ	U+0073 U+02b9	1
-ʔwʹ	ʔwʹ	U+0294 U+0077 U+02b9	1
-gw	gw	U+0067 U+0077	1
-ʃ	ʃ	U+0283	1
-i̯	i̯	U+0069 U+032f	1
-ı̆	ı̆	U+0131 U+0306	1
-ʍ	ʍ	U+028d	1
-ŋ̊	ŋ̊	U+014b U+030a	1
-yy	yy	U+0079 U+0079	1
-ĕh	ĕh	U+0115 U+0068	1
-ɲ̊	ɲ̊	U+0272 U+030a	1
-ɐ:	ɐ:	U+0250 U+003a	1
-gg	gg	U+0067 U+0067	1
-js	js	U+006a U+0073	1
-ɐː	ɐː	U+0250 U+02d0	1
-àh	àh	U+00e0 U+0068	1
-ʉː	ʉː	U+0289 U+02d0	1
-ɨ̤	ɨ̤	U+0268 U+0324	1
-ŭh	ŭh	U+016d U+0068	1
-mm	mm	U+006d U+006d	1
-psʹ	psʹ	U+0070 U+0073 U+02b9	1
-ùh	ùh	U+00f9 U+0068	1
-nhʹ	nhʹ	U+006e U+0068 U+02b9	1
-ŋʹ	ŋʹ	U+014b U+02b9	1
-õ	õ	U+00f5	1
-ʌʌ	ʌʌ	U+028c U+028c	1
-o̯	o̯	U+006f U+032f	1
-ɐ̤ʰ	ɐ̤ʰ	U+0250 U+0324 U+02b0	1
-ẽ:	ẽ:	U+1ebd U+003a	1
-ˈʔ	ˈʔ	U+02c8 U+0294	1
-phs	phs	U+0070 U+0068 U+0073	1
-ɯ̤	ɯ̤	U+026f U+0324	1
-ʔw	ʔw	U+0294 U+0077	1
-ɲs	ɲs	U+0272 U+0073	1
-ṳʰ	ṳʰ	U+1e73 U+02b0	1
-hw	hw	U+0068 U+0077	1
-ĭh	ĭh	U+012d U+0068	1
-tw	tw	U+0074 U+0077	1
-ɲw	ɲw	U+0272 U+0077	1
-ˈw	ˈw	U+02c8 U+0077	1
-ʔʹ	ʔʹ	U+0294 U+02b9	1
-nw	nw	U+006e U+0077	1
-ɔ̃̆̆	ɔ̃̆̆	U+0254 U+0303 U+0306 U+0306	1
-gs	gs	U+0067 U+0073	1
-ɜ̤	ɜ̤	U+025c U+0324	1
+Grapheme	IPA	UNICODE	SCA	FREQUENCY	EXAMPLES
+^	NULL	NULL		4558	ʔay;kaʁɔʔ;gbaʔ;ʔɛc;caw
+$	NULL	NULL		4552	ʔay;kaʁɔʔ;gbaʔ;ʔɛc;caw
+-	NULL	U+002d		3	na-;na-;ki-
+a	a	U+0061	A	1608	ʔay;kaʁɔʔ;gbaʔ;caw;kaʁɔʔ
+à	à/a	U+00e0	A	13	màam;màt;cà;ràaŋ;wàaŋ
+á	á/a	U+00e1	A	19	nám;cʔáaŋ;páat;háan;ká
+ã	ã	U+00e3	A	70	bajãw;ʔãm;ʔãm;ʔãm;ʔãm
+ă	ă	U+0103	A	9	kăp;dayăh;tăp;măt;pgăk
+ɑ	ɑ	U+0251	A	28	pagɑh;kawɑw;gɑɲ;ʔɑl;bɑy
+a:	aː	U+0061 U+003a	A	21	papa:ʔ;ɲa:m;jʔa:ŋ;ba:y;kama:h
+aː	aː	U+0061 U+02d0	A	74	ʔaːy;jʔaːŋ;jəʔaːk;jʔaːk;sat slaːp
+a̤	a̤	U+0061 U+0324	A	10	kon ŋa̤ic;ca̤ŋ;sa̤ŋ;kla̤ŋ;bula̤t
+ã:	ãː	U+00e3 U+003a	A	4	hã:ʔ;ʔawã:t;mʔã:c;kʔã:c
+ãː	ãː	U+00e3 U+02d0	A	3	hãːʔ;kəʔãːj;kaʔãːɲ
+ɑ̃	ɑ̃	U+0251 U+0303	A	2	nɑ̃y;mʔɑ̃c
+a̤̤	a̤	U+0061 U+0324 U+0324	A	1	jəʔa̤̤k
+v	v	U+0076	B	4	chveːɲ;chvɛeːɲ;vɛeɲ;ʔavʌy
+ɸ	ɸ	U+0278	B	8	haluɸ;tiɸ;palũɸ;tiɸ;tiɸ
+c	c	U+0063	C	531	ʔɛc;caw;ʔec;cɨŋ;mənkec
+ch	cʰ	U+0063 U+0068	C	14	chiəm;chiəm;chŋaːy;chŋaːy;chveːɲ
+cw	cʷ	NULL	C	3	cwɔm;cwɔ:ʔ;cwəʔ
+cʰ	cʰ	U+0063 U+02b0	C	8	cʰim;cʰṳt;cʰɒt;sɔt cʰuʔ;cʰa̤ic
+e	e	U+0065	E	312	ʔec;mənkec;paŋen;jbec;jbec
+è	è/e	U+00e8	E	10	mèc;klè;wè;lès;hmmè
+é	é/e	U+00e9	E	6	tóo sét;pté;plé;sé;kéɲ
+ĕ	ĕ	U+0115	E	11	ʔntĕʔ;thlĕaʔ;thlĕaʔ;ʔɲĕh;cĕʔ
+ɐ	ɐ	U+0250	E	2	pɐŋ;ɗɐk
+ɘ	ɘ	U+0258	E	70	cɘŋ;tbɘʔ;bɘw;bɘw;krɘʔ
+ə	ə	U+0259	E	510	ɡəbaʔ;ʔəhaw;mənkec;bəw;bəw
+ɛ	ɛ	U+025b	E	491	ʔɛc;ʔɛc;ʔɛc;ckɛy;ʔɛc
+ʌ	ʌ	U+028c	E	29	cəʔʌŋ;cəʔʌŋ;dʌt;pɦʌʔ;phʌʔ
+ẽ	ẽ	U+1ebd	E	4	bagĩẽc;lakĩẽn;phẽŋ;pãcẽʔ
+e:	eː	U+0065 U+003a	E	9	grte:k;grte:k;ye:ʔ;jye:ʔ;ʔyʔe:y
+eː	eː	U+0065 U+02d0	E	29	ceːm;ceːm;teːʔ;phneːʔ;phneːc
+e̤	e̤	U+0065 U+0324	E	7	loŋge̤k;le̤h;dage̤k;kle̤ʔ;le̤ʔ
+ɐ:	ɐː	U+0250 U+003a	E	1	krɐ:l
+ɐː	ɐː	U+0250 U+02d0	E	1	krɐːl
+ɐ̤	ɐ̤	U+0250 U+0324	E	4	pɐ̤ŋ;yɐ̤m;sɐ̤ŋ;krɐ̤h
+ɘ:	ɘː	U+0258 U+003a	E	3	babɘ:h;tɘ:h;gɘ:j ˈʔo:s
+ɘ̃	ɘ̃	U+0258 U+0303	E	1	mhɘ̃m
+ə:	əː	U+0259 U+003a	E	6	tapə:t;gə:t;kə:l;lyə:ʔ;tuŋkə:j
+əə	əː	U+0259 U+0259	E	6	hrməəy;məəy;kəə;nəəŋ;pʹəə
+əː	əː	U+0259 U+02d0	E	20	pəŋləːk;bəːh;phləːŋ;cəːŋ;kəːʔ
+ə̃	ə̃	U+0259 U+0303	E	11	mhə̃m;ʔə̃h;ʔə̃h;gyə̃m;gyə̃m
+ə̆	ə̆	U+0259 U+0306	E	11	kə̆t;kbə̆s;rə̆am;ŋə̆ap;thə̆at
+ə̤	ə̤	U+0259 U+0324	E	7	tə̤k;m̥bə̤c;jə̤t;kayə̤k;pəgə̤k
+ɛ:	ɛː	U+025b U+003a	E	8	mɛ:m;kɛ:k;cnɛ:r;wɛ:l;cɛ:ʔ
+ɛɛ	ɛː	U+025b U+025b	E	2	hʹɛɛm;lmɛɛt
+ɛː	ɛː	U+025b U+02d0	E	48	cɛːp;cɛːp;mɛːm;mɛːm;kajɛː
+ɛ̃	ɛ̃	U+025b U+0303	E	79	ʔɛ̃m;ʔɛ̃m;ʔawɛ̃ʔ;ʁyɛ̃c;ʔɛ̃m
+ɛ̆	ɛ̆	U+025b U+0306	E	5	tɛ̆ʔ;bʔɛ̆t;lbɛ̆h;pnpɛ̆t;pyɛ̆c
+ɛ̤	ɛ̤	U+025b U+0324	E	12	gɛ̤k;ɲɛ̤h;ʔəmɛ̤ʔ;tɛ̤y;hɛ̤
+ɜ̤	ɜ̤	U+025c U+0324	E	1	cɜ̤t
+ʌʌ	ʌː	U+028c U+028c	E	1	lʌʌ
+ʌː	ʌː	U+028c U+02d0	E	11	dɒːʔ təŋhʌːm;təhaʌːm;sʌːc;thlʌːm;crʌːn
+ẽ:	ẽː	U+1ebd U+003a	E	1	phẽ:ɲ
+ẽː	ẽː	U+1ebd U+02d0	E	1	saŋẽːt
+ɛ̃:	ɛ̃ː	U+025b U+0303 U+003a	E	2	jʔɛ̃:ŋ;hkhɛ̃:k
+ɛ̃ː	ɛ̃ː	U+025b U+0303 U+02d0	E	3	katɛ̃ːk;cpɛ̃ːt;cpɛ̃ːd
+ɣ	ɣ	U+0263	G	3	kəɣɔʔ;haɣeʔ;gaɣɛm
+h	h	U+0068	H	796	ʔahaw;ʔəhaw;hapɔʔ;jahat;jahat
+ɦ	ɦ	U+0266	H	2	pɦʌʔ;rɨːɦ
+ʔ	ʔ	U+0294	H	1776	ʔay;kaʁɔʔ;gbaʔ;ʔɛc;kaʁɔʔ
+	ʔ	U+f195	H	31	kntrɔɔŋ;tóh hrɲɨam;kʹɔɔn nɛ;mɨɨ;cə
+hw	hʷ	NULL	H	1	hwit
+hʹ	h’	U+0068 U+02b9	H	3	tnhʹɔɔy;hʹɛɛm;hʹɨal
+ʔw	ʔʷ	NULL	H	1	ʔwʔaw
+ʔʹ	ʔ’	U+0294 U+02b9	H	1	sʔʹɔɔŋ
+ˈʔ	ʔ	U+02c8 U+0294	H	1	gɘ:j ˈʔo:s
+ʔwʹ	ʔ’ʷ	NULL	H	1	ʔwʹɨak
+I	ɪ	NULL	I	1	tʰI
+i	i	U+0069	I	522	bsiŋ;jbic;ʔibu:ʔ;ʔibuːʔ;binatak
+ì	ì/i	U+00ec	I	8	kìi;mìit;rìas;lìat;plìas
+í	í/i	U+00ed	I	5	síim;kíɲ;tí;píɲ;sís
+ĩ	ĩ	U+0129	I	18	batĩk;batĩk;mnĩm;bgĩɛ̃c;bagĩẽc
+ĭ	ĭ	NULL	I	1	mĭh
+ɨ	ɨ	U+0268	I	187	cɨŋ;cɨŋ;tbɨʔ;cɨŋ;tbɨʔ
+ɪ	ɪ	U+026a	I	8	tɲɪ;kəjɪŋ;bətɪc;jəʔɪs;ɲaɲɪʔ
+i:	iː	U+0069 U+003a	I	14	bhi:p;hayi:ʔ;ʔsi:ʔ;wi:t;ti:k
+iː	iː	U+0069 U+02d0	I	39	bhiːp;jiːs;ciːʔ;bagiː;tiːŋ
+i̤	i̤	U+0069 U+0324	I	1	ci̤p
+i̯	i̯	U+0069 U+032f	I	1	trɛi̯
+ı̃	ĩ	NULL	I	8	wı̃ʔ;wı̃ʔ;wı̃ʔ;hı̃c;cpı̃t
+ı̆	ĭ	U+0131 U+0306	I	1	tbı̆k
+ɨ:	ɨː	U+0268 U+003a	I	3	taŋɨ:n;mɨ:h;gɨ:l
+ɨɨ	ɨː	U+0268 U+0268	I	3	mɨɨ;cɨɨ;pnʹɨɨr
+ɨː	ɨː	U+0268 U+02d0	I	10	jgjɨːg;jɨːr;phlɨːŋ;cɨːŋ;lɨː
+ɨ̃	ɨ̃	U+0268 U+0303	I	14	mhɨ̃m;mhɨ̃m;mhɨ̃m;mhɨ̃m;bhɨ̃m
+ɨ̆	ɨ̆	U+0268 U+0306	I	4	rɨ̆am;ŋɨ̆ap;kɨ̆at;mɨ̆at
+ɨ̤	ɨ̤	U+0268 U+0324	I	1	yəmɨ̤ʔ
+ɨ̯	ɨ̯	U+0268 U+032f	I	3	phlʌɨ̯;khɲaɨ̯;baɨ̯
+ɪː	ɪː	U+026a U+02d0	I	8	təcɪːʔ;ʔɪː nih;bɪːt;lɪːɲ;phlɪːɲ
+ɯ̤	ɯ̤	U+026f U+0324	I	1	jɯ̤k
+ı̃ː	ĩː	NULL	I	2	ʔı̃ːɲ;ʔı̃ːɲ
+j	j	U+006a	J	268	jahat;jahat;jahat;jbec;jahat
+y	j	U+0079	J	486	ʔay;ʔay;kyɔʔ;ʔay;kyɔʔ
+ɰ	ɰ	U+0270	J	2	ʔaɰus;ɰis
+g	g	U+0067	K	249	gbaʔ;mrgas;hət ʔagan;pagɑh;bgiw
+k	k	U+006b	K	1266	kaʁɔʔ;kaʁɔʔ;kaʔɔʔ;kyɔʔ;mənkec
+ɡ	g	U+0261	K	1	ɡəbaʔ
+gg	gː	U+0067 U+0067	K	1	gglɨk
+gw	gʷ	NULL	K	1	gwɔ̤c
+kh	kʰ	U+006b U+0068	K	16	khnɒ:ŋ;khnɒ:ŋ;kham;kham;hkhɛ̃:k
+kw	kʷ	U+006b U+0077	K	5	kwɔ:t;kwɔp;kwɛ̃ʔ;kwaik;kwak
+kʰ	kʰ	U+006b U+02b0	K	14	kʰbəs;kʰɒh;kʰoy;kʰɔy;kʰoy
+kʹ	kʼ	U+006b U+02b9	K	3	kʹɔɔn nɛ;skʹɔ;cmkʹɨn
+khʹ	k’ʰ	NULL	K	1	khʹɨaŋ
+l	l	U+006c	L	696	laʔɨs;laʔəs;laʔɘs;cloːt;ləpɛc
+ʟ	ʟ	U+029f	L	6	piʟŋaʟ;piʟŋaʟ;haʟ bɘw;bɛʟ;gəlaʟ kətɔʔ
+lʹ	l’	U+006c U+02b9	L	2	tlʹɔɔm;klʹɔɔk
+m	m	U+006d	M	746	mənkec;mnaʔ;mnɨʔ;ɲam;mənuːʔ
+ʍ	ʍ	U+028d	M	1	ʍo̤
+mm	mː	U+006d U+006d	M	1	hmmè
+mʹ	m’	U+006d U+02b9	M	1	mʹəh
+m̥	m̥	U+006d U+0325	M	5	m̥bə̤c;m̥pay;m̥aʔ;m̥peʔ;m̥ba
+^m	ˀm	NULL	M	1	mpɔc
+mmʹ	m’	NULL	M	1	tmmʹɔɔŋ
+n	n	U+006e	N	603	mənkec;paŋen;mnaʔ;nataŋ;mnɨʔ
+ŋ	ŋ	U+014b	N	496	bsiŋ;cɨŋ;cɘŋ;cɨŋ;cɨŋ
+ɲ	ɲ	U+0272	N	290	ɲam;ɲa:m;ɲap;ɲap;ɲap
+nw	nʷ	U+006e U+0077	N	1	knwèr
+nʹ	n’	U+006e U+02b9	N	2	tnʹɔh;pnʹɨɨr
+n̥	n̥	U+006e U+0325	N	5	n̥o̤k;n̥im toa;n̥ɔm;n̥am;n̥ɛaŋ
+ŋw	ŋʷ	NULL	N	2	kəŋwɔʔ;kŋwiːl
+ŋʹ	ŋ’	U+014b U+02b9	N	1	ŋʹɔ
+ŋ̊	ŋ̊	U+014b U+030a	N	1	ŋ̊kiʔ
+ɲ̊	ɲ̊	U+0272 U+030a	N	1	ɲ̊jəh
+^n	ˀn	NULL	N	1	nsɔʔ
+ɒ	ɒ	U+0252	O	25	dɒh;dɒh;bɒy;cʰɒt;kɒʔ
+ɒ:	ɒː	U+0252 U+003a	O	5	khnɒ:ŋ;mən lʔɒ:;khnɒ:ŋ;mən lʔɒ:;cɒ:ʔ
+ɒː	ɒː	U+0252 U+02d0	O	22	jʔɒːk;dɒːʔ təŋhʌːm;kəcɒːʔ;ʔɒːs;kɒːʔ
+b	b	U+0062	P	574	gbaʔ;baʔ;ɡəbaʔ;tbɘʔ;tbɨʔ
+p	p	U+0070	P	606	hapɔʔ;paŋen;papa:ʔ;papa:ʔ;ləpɛc
+ɓ	ɓ	U+0253	P	5	ɓɔk;ɓɔŋ;ɓun;ɓɛ;ɓa
+bh	bʱ	U+0062 U+0068	P	5	bhɨ̃m;bhiːp;bhi:p;bhɛc;bhrɔh
+bw	bʷ	U+0062 U+0077	P	6	bwaʔ;bwaʔ;bwaʔ;bwa:h;bwaʔ
+ph	pʰ	U+0070 U+0068	P	26	hphip;phlom;phlɔm;phʌʔ;phneːʔ
+pp	pː	U+0070 U+0070	P	1	ppjãp
+pʹ	pʼ	U+0070 U+02b9	P	2	pʹəə;pʹɨat
+r	r	U+0072	R	323	krɔʔ;krŋkɨŋ;krɔʔ;krɔʔ;krəʔ
+ʁ	ʁ	U+0281	R	30	kaʁɔʔ;kaʁɔʔ;kʁɔʔ;paʁah;kuʁɔʔ
+s	s	U+0073	S	565	laʔɨs;laʔəs;laʔɘs;mrgas;tóo sét
+z	z	U+007a	S	2	zos;zeʔ
+ʃ	ʃ	U+0283	S	1	ʃiəʔ
+sw	sʷ	U+0073 U+0077	S	9	swɛt;swɛt;swah;swah;sweːk
+sʹ	sʼ	U+0073 U+02b9	S	2	sʹɔ;psʹɨam
+d	d	U+0064	T	196	jahad;kadam;daʔ ʔilɔk;darah;darah
+t	t	U+0074	T	1070	tbɘʔ;jahat;tbɨʔ;jahat;tbɨʔ
+ɗ	ɗ	U+0257	T	5	ɗeh;ɗɒp;ɗeh;ɗaik;ɗɐk
+dw	dʷ	U+0064 U+0077	T	9	dwah;dwaʔ;dwaʔ;dwaʔ;dwaʔ
+th	tʰ	U+0074 U+0068	T	27	thom;thɔm;thɔr;tho:l;thlĕaʔ
+tw	tʷ	NULL	T	1	twiɲ
+tʰ	tʰ	U+0074 U+02b0	T	13	tʰəy;btʰɔŋ;btʰɔŋ;btʰɔŋ;tʰi
+tʹ	tʼ	U+0074 U+02b9	T	5	tʹɛ;kntʹɨar;tʹəəm;ptʹə;tʹɨat
+o	o	U+006f	U	268	kyoʔ;ʔoʔoc;ʔoʔoc;tóo sét;thom
+ò	ò/o	U+00f2	U	11	yòŋ;hrlòoy;ò;wòh;mòŋ
+ó	ó/o	U+00f3	U	7	tóo sét;pók;któŋ;kmpóŋ;kóop
+õ	õ	U+00f5	U	1	puŋgõ
+ŏ	ŏ	U+014f	U	16	kyŏʔ;pŏah;pŏɔh;pŏaŋ;cəŋkŏaŋ
+ɔ	ɔ	U+0254	U	603	kaʁɔʔ;kaʁɔʔ;kaʔɔʔ;hapɔʔ;kyɔʔ
+o:	oː	U+006f U+003a	U	19	tho:l;do:ʔ;ʔo:s;nto:y;ʔo:k
+oː	oː	U+006f U+02d0	U	46	cloːt;ntoːy;təhoːl;kuoːn;kuoːn
+o̤	o̤	U+006f U+0324	U	21	n̥o̤k;mo̤t pro̤a;mo̤t pro̤a;həpo̤t;mo̤t
+o̯	o̯	U+006f U+032f	U	1	phlɔo̯
+õː	õː	U+00f5 U+02d0	U	1	knõːk
+ɔ:	ɔː	U+0254 U+003a	U	16	lɔ:t;cnyɔ:s;kwɔ:t;cnrɔ:s;cwɔ:ʔ
+ɔɔ	ɔː	U+0254 U+0254	U	10	kntrɔɔŋ;kʹɔɔn nɛ;tmmʹɔɔŋ;tlʹɔɔm;tnhʹɔɔy
+ɔː	ɔː	U+0254 U+02d0	U	46	lɔːt;cɛnrɔːs;kəcɔːʔ;ʔɔːk;ʔɔːs
+ɔ̃	ɔ̃	U+0254 U+0303	U	45	kawɔ̃t;kawɔ̃t;katɔ̃ŋ;hɔ̃k;kɔkɔ̃t
+ɔ̆	ɔ̆	U+0254 U+0306	U	7	ʔɔ̆h;yɔ̆k;knmɔ̆h;tɔ̆ʔ;kɔ̆c
+ɔ̤	ɔ̤	U+0254 U+0324	U	6	cɛlɔ̤t;gwɔ̤c;jɔ̤k;mɔ̤ŋ;sɔ̤k
+ɔ̯	ɔ̯	U+0254 U+032f	U	2	ʔɔ̯o;sroɔ̯
+ɔ̃:	ɔ̃ː	U+0254 U+0303 U+003a	U	5	ʔɔ̃:ŋ;snʔɔ̃:y;snʔɔ̃:y;sŋʔɔ̃:y;ʔɔ̃:ŋ
+ɔ̃ː	ɔ̃ː	U+0254 U+0303 U+02d0	U	3	ʔɔ̃ːɲ;ʔɔ̃ːɲ;ʔɔ̃ːŋ
+ɔ̃̆̆	ɔ̃̆	U+0254 U+0303 U+0306 U+0306	U	1	ʔɔ̃̆̆ŋ
+w	w	U+0077	W	222	caw;ʔahaw;ʔəhaw;bəw;bəw
+ˈw	w	U+02c8 U+0077	W	0	
+u	u	U+0075	Y	437	jabuc;lùuy;hilhul;prhur;tulaŋ
+ù	ù/u	U+00f9	Y	6	lùuy;pù;ùun;mùh;kùuɲ
+ú	ú/u	U+00fa	Y	8	súa;húr;púut;knúun;húur
+ũ	ũ	U+0169	Y	29	humhũm;ʔayũt;ʔayũt;ʔayũt;ʔayũt
+ŭ	ŭ	U+016d	Y	6	sagŭp;jŭk;thəŋŭan;thəŋŭan;mŭh
+ʉ	ʉ	U+0289	Y	3	kərʉʔ;klʉʔ;bənʉm
+ʊ	ʊ	U+028a	Y	7	phnʊm;yʊp;yʊp;mʊt;ŋkʊy
+ṳ	ṳ	U+1e73	Y	6	cʰṳt;kṳc;mṳh;pantṳt;sṳm
+u:	uː	U+0075 U+003a	Y	16	ʔibu:ʔ;ntu:y;ku:y;ku:y;ku:y
+uː	uː	U+0075 U+02d0	Y	32	ʔibuːʔ;mənuːʔ;ŋuːn;tuːŋ;tuːk
+yy	yː	U+0079 U+0079	Y	1	yyəy
+ũ:	ũː	U+0169 U+003a	Y	2	hmhũ:m;ʔũ:ɲ
+ũː	ũː	U+0169 U+02d0	Y	2	ɲhũːʔ;hɛlnũːl
+ũ̆	ũ̆	U+0169 U+0306	Y	2	ɲhũ̆ʔ;ɲhũ̆ʔ
+ʉː	ʉː	U+0289 U+02d0	Y	1	kənʉːh
+ʊː	ʊː	U+028a U+02d0	Y	3	mʊːy;kəʔʊːt;phʊːŋ ʔɛːɲ
+=	+	NULL	_	3	ki=ʔɛn;kɑ=daʔ;je=ʔen
+_	+	U+005f	_	0	
+…	+	NULL	_	1	mʌn … teː
+àh	à/a h	NULL	A H	1	àh
+aʰ$	a h	U+0061 U+02b0	A H	2	kənaʰ;təkaʰ
+a̤̤̤̤̤k	a̤ k	NULL	A K	1	nata̤̤̤̤̤k
+e̤ʰ$	e̤ h	U+0065 U+0324 U+02b0	E H	2	məne̤ʰ;həye̤ʰ
+ɐ̤ʰ$	ɐ̤ h	U+0250 U+0324 U+02b0	E H	1	rɐ̤ʰ
+ɛ̤ʰ$	ɛ̤ h	U+025b U+0324 U+02b0	E H	0	
+jh	j h	U+006a U+0068	J H	12	jhat;jhũʔ;jhuʔ tuŋkat;jhɨt;jhɨːd
+gh	g h	NULL	K H	3	ghɛh;ghɛʔ;ghɛʔ
+gs	g s	U+0067 U+0073	K S	1	gsɛʔ
+ks	k s	U+006b U+0073	K S	4	ksɨy;ksɨy;ksɘy;ksɨy
+lh	l h	NULL	L H	3	hilhul;hlhol;brlhɨm
+ls	l s	NULL	L S	2	lsəm;lsoh
+lw	l w	NULL	L W	2	lwàaŋ;wlwɛl
+mh	m h	U+006d U+0068	M H	12	mhɨ̃m;mhɨ̃m;mhɘ̃m;mhɨ̃m;mhɨ̃m
+ŋh	ŋ h	U+014b U+0068	N H	1	dɒːʔ təŋhʌːm
+ɲh	ɲ h	U+0272 U+0068	N H	4	yeh ɲhũʔ;ɲhũ̆ʔ;ɲhũ̆ʔ;ɲhũːʔ
+ns	n s	U+006e U+0073	N S	9	ʔnsɔʔ;ʔnsɔʔ;nsət;ʔnsɔʔ;ʔnsɔʔ
+ŋs	ŋ s	U+014b U+0073	N S	15	kŋsiŋ;kŋsiŋ;kŋsiŋ;kŋsiŋ;kəŋsiŋ
+ɲs	ɲ s	U+0272 U+0073	N S	2	ɲsəc;ʔiɲsɛ̃y
+bs	b s	U+0062 U+0073	P S	4	bsiŋ;bseʔ;bseʔ;bsoʔ
+phs	pʰ s	U+0070 U+0068 U+0073	P S	1	phsaɛɲ
+rh	r h	NULL	R H	3	prhur;rhɨk;rhɨk
+óh	ó/o h	NULL	U H	1	tóh hrɲɨam
+oʰ$	o h	U+006f U+02b0	U H	2	kraoʰ;ɲɛ̤ʰ kraoʰ
+ṳʰ$	ṳ h	U+1e73 U+02b0	Y H	1	kṳʰ
+ɲɛ̤ʰ	ɲ ɛ̤ h	NULL	N E H	2	ɲɛ̤ʰ kraoʰ;ɲɛ̤ʰ prɛ̤a
+jsɨŋ	j /ə s ɨ ŋ	U+006a U+0073	J E S I N	1	jsɨŋ
+ʔilˈw`:l	ʔ i l’ w /ə l	NULL	H I L W E L	1	ʔilˈw`:l

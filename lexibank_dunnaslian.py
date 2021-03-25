@@ -63,6 +63,7 @@ class Dataset(BaseDataset):
         separators=";/,",
         missing_data=('––', '--', '-'),
         strip_inside_brackets=True,
+        replacements=[("…", "")]
     )
     
     def cmd_makecldf(self, args):

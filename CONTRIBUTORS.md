@@ -1,6 +1,6 @@
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | --- | ---
-Simon J. Greenhill | @SimonGreenhill | maintainer | Other 
-Michael Dunn | | data collector | DataCollector, Author
+Simon Greenhill | @SimonGreenhill | patron, code | Other 
+Johann-Mattis List | @lingulist | profile | Other
+Michael Dunn | @evoling | data provider | DataCurator, Author

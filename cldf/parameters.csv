@@ -53,7 +53,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 52_i,I,1209,I
 53_knee,knee,1371,KNEE
 54_knife,knife,1352,KNIFE
-55_know,know,1410,KNOW (SOMETHING)
+55_know,know,3626,KNOW
 56_laugh,laugh,1355,LAUGH
 57_leaf,leaf,628,LEAF
 58_leftside,leftside,244,LEFT
@@ -79,7 +79,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 78_one,one,1493,ONE
 79_person,person,683,PERSON
 80_play,play,1413,PLAY
-81_quiver,quiver,52,SHIVER
+81_quiver,quiver,995,QUIVER (FOR ARROWS)
 82_rain,rain,1253,RAIN (RAINING)
 83_red,red,156,RED
 84_rice,rice,926,RICE

@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset derived from Dunn et al.'s \"Aslian Languages\" from 2013",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dunn, Michael, Nicole Kruspe, and Niclas Burenhult. 2013. \u201cTime and Place in the Prehistory of the Aslian Languages.\u201d Human Biology 85: 383\u2013400.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
