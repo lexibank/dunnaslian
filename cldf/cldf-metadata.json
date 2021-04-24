@@ -17,12 +17,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dunnaslian",
-            "dc:created": "32ac1f0"
+            "dc:created": "9f0dac9"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.3"
         },
         {
