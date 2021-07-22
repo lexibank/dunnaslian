@@ -1,10 +1,18 @@
 # CLDF dataset derived from Dunn et al.'s "Aslian Languages" from 2013
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/dunnaslian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/dunnaslian/actions?query=workflow%3ACLDF-validation)
 
-> Dunn, Michael, Nicole Kruspe, and Niclas Burenhult. 2013. “Time and Place in the Prehistory of the Aslian Languages.” Human Biology 85: 383–400.
+## How to cite
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+If you use these data please cite
+- the original source
+  > Dunn, Michael, Nicole Kruspe, and Niclas Burenhult. 2013. “Time and Place in the Prehistory of the Aslian Languages.” Human Biology 85: 383–400.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -12,6 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/dunnaslian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/dunnaslian/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -32,9 +41,17 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Description | Role
-Simon Greenhill | @SimonGreenhill | patron, code | Other 
-Johann-Mattis List | @lingulist | profile | Other
-Michael Dunn | @evoling | data provider | DataCurator, Author
+| Name | GitHub user | Description | Role |
+| --- | --- | --- | --- |
+| Simon Greenhill | @SimonGreenhill | patron, code | Other  |
+| Johann-Mattis List | @lingulist | profile | Other |
+| Michael Dunn | @evoling | data provider | DataCurator, Author |
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
