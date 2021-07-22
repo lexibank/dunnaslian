@@ -5,8 +5,25 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Michael Dunn"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Michael Dunn",
+            "type": "DataCurator"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
