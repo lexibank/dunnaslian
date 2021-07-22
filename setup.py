@@ -20,6 +20,7 @@ setup(
             'dunnaslian=lexibank_dunnaslian:Dataset',
         ]
     },
+    extras_require={"test": ["pytest-cldf"]},
     install_requires=[
         'pylexibank>=2.1',
     ]
