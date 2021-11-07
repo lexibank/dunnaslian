@@ -17,9 +17,9 @@ Ceq_Wong,Ceq Wong,chew1245,Chewong,cwg,Eurasia,3.83331,102.081,Austroasiatic
 Jah_Hut,Jah Hut,jahh1242,Jah Hut,jah,Eurasia,3.67619,102.291,Austroasiatic
 Lanoh_Kertei,Lanoh Kertei,lano1248,Lanoh,lnh,Eurasia,4.90934,100.986,Austroasiatic
 Semnam_Bal,Semnam Bal,semn1250,Semnam,ssm,Eurasia,5.27617,101.058,Austroasiatic
-Semnam_Malau,Semnam Malau,sema1250,,ssm,,,,
+Semnam_Malau,Semnam Malau,semn1250,Semnam,ssm,Eurasia,5.27617,101.058,Austroasiatic
 Temiar_Kelantan,Temiar Kelantan,temi1246,Temiar,tea,Eurasia,4.974,101.438,Austroasiatic
-Temiar_Perak,Temiar Perak,teim1246,,tea,,,,
+Temiar_Perak,Temiar Perak,temi1246,Temiar,tea,Eurasia,4.974,101.438,Austroasiatic
 Semai_Kampar,Semai Kampar,sema1266,Semai,sea,Eurasia,4.13257,101.477,Austroasiatic
 Semai_Ringlet,Semai Ringlet,sema1266,Semai,sea,Eurasia,4.13257,101.477,Austroasiatic
 Kammu,Kammu,khmu1256,Khmu,kjg,Eurasia,20.2463,101.671,Austroasiatic
@@ -30,4 +30,4 @@ Semaq_Beri_Berua,Semaq Beri Brwe,sema1265,Semaq Beri,szc,Eurasia,4.1217,102.816,
 Semaq_Beri_Jaboy,Semaq Beri Jaboy,sema1265,Semaq Beri,szc,Eurasia,4.1217,102.816,Austroasiatic
 Semelai,Semelai,seme1247,Semelai,sza,Eurasia,2.82799,102.806,Austroasiatic
 Maniq,Maniq,tong1308,Maniq,tnz,Eurasia,6.88137,100.102,Austroasiatic
-Mon,Mon,monn1258,,mnw,,,,
+Mon,Mon,monn1253,Mon (India),mnw,Eurasia,,,Sino-Tibetan

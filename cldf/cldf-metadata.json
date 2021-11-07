@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/dunnaslian",
             "rdf:type": "prov:Entity",
-            "dc:created": "40c5fec",
+            "dc:created": "v1.0-2-geb6e67f",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
