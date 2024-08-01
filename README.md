@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 32
-- **Concepts:** 146
+- **Varieties:** 32 (linked to 19 different Glottocodes)
+- **Concepts:** 146 (linked to 146 different Concepticon concept sets)
 - **Lexemes:** 4,560
 - **Sources:** 1
 - **Synonymy:** 1.01
@@ -36,15 +36,15 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
 - **Tokens:** 18,571
-- **Segments:** 158 (0 BIPA errors, 0 CTLS sound class errors, 158 CLTS modified)
+- **Segments:** 158 (0 BIPA errors, 0 CLTS sound class errors, 158 CLTS modified)
 - **Inventory size (avg):** 40.25
 
 # Contributors
 
 | Name | GitHub user | Description | Role |
 | --- | --- | --- | --- |
-| Simon Greenhill | @SimonGreenhill | patron, code | Other  |
-| Johann-Mattis List | @lingulist | profile | Other |
+| Simon Greenhill | @SimonGreenhill | patron, code | Editor  |
+| Johann-Mattis List | @lingulist | profile | Editor |
 | Michael Dunn | @evoling | data provider | DataCurator, Author |
 
 
